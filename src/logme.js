@@ -3,7 +3,8 @@ console.log("me");
 console.log("a message from arianna");
 console.log("a new message from giacomo");
 console.log("another change from arianna");
-console.log('i do changes');
+console.log("i do changes");
+console.log("another change from not the owner");
 // TODO #1 how can someone create an issue on github???
 // TODO #2 first create the small todos
 // TODO #3 like a little thing 1

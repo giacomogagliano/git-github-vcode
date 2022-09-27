@@ -1,6 +1,7 @@
 console.log("me");
 // TODO #1 how can someone create an issue on github???
 console.log("a message from arianna");
+console.log('a new message from giacomo');
 // TODO #1 how can someone create an issue on github???
 // TODO #2 first create the small todos
 // TODO #3 like a little thing 1
